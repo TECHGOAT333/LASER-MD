@@ -38,7 +38,7 @@ This is not just a bot — it’s a learning tool to help you grow in developmen
 ## 🔗 Connect With Us
 
 ### Project Owner: Dev Weed
-<a href='https://wa.me/+50939032060?text=*_Hello+Dev Weed👋_*' target="_blank">
+<a href='https://wa.me/+50948247470?text=*_Hello+Dev Weed👋_*' target="_blank">
   <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-0033CC?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 
